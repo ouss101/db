@@ -3,12 +3,14 @@
     {
       "id": 1,
       "nom": "computer",
+      "destination":"usgfuqg",
       "price": 5425,
       "quantite": 73
     },
     {
       "id": 2,
       "nom": "phonr",
+       "destination":"usgfuqg",
       "price": 7515,
       "quantity": 74
     }
