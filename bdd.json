@@ -1,5 +1,5 @@
 {
-  
+  "products": [
     {
       "id": 1,
       "nom": "computer",
@@ -12,5 +12,5 @@
       "price": 7515,
       "quantity": 74
     }
- 
+ ]
 }
